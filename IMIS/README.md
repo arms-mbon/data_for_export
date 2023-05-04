@@ -1,0 +1,1 @@
+These are the data associated with the ARMS-MBON metadata record in IMIS (https://www.vliz.be/en/imis?module=dataset&dasid=8135). This CSV file is copied to the Marine Data Archive and linked to that record. 
